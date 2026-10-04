@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK files
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.dbapp/google-services.json
